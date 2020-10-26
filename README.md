@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, GitHub! 
 
 <!--
 **misslivirose/misslivirose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Liv and I'm excited to see you here! I'm currently working at Mozilla on [Hubs](https://hubs.mozilla.com), an open-source platform for creating and sharing private 3D meeting spaces. My GitHub profile has evolved over the years alongside my career. My older repos (circa 2015-16) are mostly open source virtual and augmented reality projects from my time working as a developer evanagelist for Microsoft's mixed reality initiatives. From 2017-2019, I worked at a virtual reality startup as an engineering lead on their open source platform, where I worked primarily in C# and JavaScript. When I joined Mozilla in 2019, it was as a product manager, so my contributions are now primarily in the discussion space and filing new feature requests and specifications for [Hubs](https://github.com/mozilla/hubs) and [Hubs Cloud](https://github.com/mozilla/hubs-cloud). 
+
+I'm a big fan of open source, emerging technology, and advocating for policies online that protect user privacy and information. The gap you might see from January - March in 2020 was the time that I was participating in a fellowship with the Aspen Institute and launching [The Digital Afterlife Project](https://digitalafterlife.online), a tech policy project designed to help organizations make better decisions about posthumous data collection and management. I have a passion for the web and open ecosystems that enable individuals and teams to be empowered to create and deploy technologies - if you do too, let's connect! 
+
+✉ livi.erickson@gmail.com 
