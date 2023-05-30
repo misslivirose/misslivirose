@@ -19,5 +19,5 @@ My name is Liv (they/she) and I'm excited to see you here!
 
 I have a passion for working at the intersection of game technology and the web and my mission is to help everyone have tools and capabilities to build and own personalized 3D worlds and experiences. I'm a metaverse anarchist and believe that we can collectively build far more creative and better worlds than what we've demonstrated to date. Let's work on that together.
 
-I'm a big fan of open source, emerging technology, and advocating for ethical product policies that protect user privacy and information. I have a passion for the web and open ecosystems that enable individuals and teams to be empowered to create and deploy technologies - if you do too, let's connect (though I'm terrible at responding to email most of the time - Twitter is best!) 
+I'm a big fan of open source, emerging technology, and advocating for ethical product policies that protect user privacy and information. I have a passion for the web and open ecosystems that enable individuals and teams to be empowered to create and deploy technologies - if you do too, let's connect.
 
