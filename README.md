@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Liv (they/she) and I'm excited to see you here! 
+I have a passion for working cross-functionally on emerging technologies and my mission is to help everyone have tools and capabilities to build and own their computing experience. I believe that we can collectively build far more creative, inclusive, and equitable realities than what we've demonstrated to date. 
 
-I have a passion for working at the intersection of game technology and the web and my mission is to help everyone have tools and capabilities to build and own personalized 3D worlds and experiences. I'm a metaverse anarchist and believe that we can collectively build far more creative and better worlds than what we've demonstrated to date. Let's work on that together.
-
-I'm a big fan of open source, emerging technology, and advocating for ethical product policies that protect user privacy and information. I have a passion for the web and open ecosystems that enable individuals and teams to be empowered to create and deploy technologies - if you do too, let's connect.
+I'm a big fan of open source, XR technology, on-device machine learning, and advocating for ethical product policies that protect user privacy and information. I have a passion for the web and open ecosystems that enable individuals and teams to be empowered to create and deploy technologies that they collectively own. The irony of publishing that sentence on GitHub is not lost on me.
 
